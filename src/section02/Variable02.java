@@ -36,8 +36,8 @@ public class Variable02 {
 		
 		char ch5 = 'c';
 		System.out.println("char 형 변수에 저장된 문자:" + ch5);
-		int num = ch5;
-		System.out.println("소문자 c에 해당하는 숫자코드: " + num);
+		int num2 = ch5;
+		System.out.println("소문자 c에 해당하는 숫자코드: " + num2);
 		
 	}
 }
